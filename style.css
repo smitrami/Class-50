@@ -1,0 +1,29 @@
+h1 {
+    color: aqua;
+}
+
+
+
+.Header{
+    background-color:rgb(255, 0, 200);
+    display: flex;
+    justify-content: space-between;
+}
+
+.Menu{
+
+}
+
+.Grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.item{
+    border: dashed;
+    margin: 10px;
+}
